@@ -1,2 +1,2 @@
 # dcp-feedback
-Please file issues here for feedback, feature requests, bugs, and comments
+If you have questions or issues to report please email [data-help@humancellatlas.org](mailto:data-help@humancellatlas.org).
